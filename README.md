@@ -9,5 +9,5 @@ unemployment.ipynb: a Jupyter notebook containing the code for data preprocessin
 
 Unemployment in India (1).csv: the historical data used for this project
 
-README.md: a detailed documentation of the project and its objectives
+
 
